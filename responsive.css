@@ -1,0 +1,1087 @@
+@media screen and (min-width: 2201px) and (max-width: 2560px) {
+  main .first section {
+    width: 67%;
+  }
+  main .first section .left .center .text h4 {
+    font-size: 56px;
+    font-weight: 500;
+    margin-bottom: 15px;
+  }
+  main .first section .left .center .text p {
+    margin-bottom: 35px;
+    font-size: 38px;
+  }
+  main .first section .left .center .pelement p {
+    font-size: 38px;
+    height: 230px;
+  }
+  main .first section .left .center .imgs img {
+    width: 290px;
+    height: 88px;
+    margin-right: 25px;
+    margin-top: 40px;
+  }
+  main .first header {
+    width: 90%;
+    height: 15%;
+  }
+  main .first header .container-fluid {
+    height: 140px;
+  }
+  main .first header .goingcenter {
+    width: 330px;
+    height: 140px;
+  }
+  .navbar-nav .nav-item .nav-link {
+    font-size: 38px;
+  }
+  main .first header .goingcenter .navbar-brand {
+    margin-right: 27px;
+  }
+  main .first header .goingcenter .navbar-brand p {
+    font-size: 50px;
+  }
+  main .first header .goingcenter .navbar-brand .secondp {
+    margin-bottom: 50px;
+    margin-top: 22px;
+    margin-left: 52px;
+  }
+  main .first header .goingcenter .centered {
+    margin-left: 15px;
+  }
+  main .first section {
+    height: 72%;
+  }
+  main .first section .left .center {
+    height: 46%;
+  }
+  main .second .left {
+    align-items: center;
+  }
+  main .second .right .centeredtext .justtext .ulli p {
+    font-size: 44px;
+    line-height: 1.5em;
+  }
+  main .second .right .centeredtext .justtext .text h2 {
+    font-size: 70px;
+  }
+  main .fourth .review .mainimg .divforp p {
+    width: 40%;
+    line-height: 1.5em;
+    font-size: 46px;
+  }
+  main .fourth .review .mainimg h6 {
+    font-size: 44px;
+    height: 160px;
+  }
+  main .fourth .review .mainimg h5 {
+    height: 120px;
+    font-size: 76px;
+  }
+  footer {
+    height: 800px;
+  }
+  main .fourth .name {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  footer .maindiv .top .twoh2 .h2 h2 {
+    font-size: 64px;
+    margin: 0px;
+    margin-top: 13px;
+  }
+  footer .maindiv .bottom p {
+    font-size: 28px;
+    text-align: center;
+  }
+  footer .maindiv .top .aelements {
+    align-items: center;
+  }
+  footer .maindiv {
+    width: 715px;
+  }
+  main .second .left .centeredimg img {
+    width: 518px;
+    height: 1038px;
+  }
+  footer .maindiv .top .aelements a img {
+    width: 260px;
+    height: 76px;
+  }
+  main .third .name {
+    align-items: center;
+  }
+  main .third .name h2 {
+    font-size: 88px;
+  }
+  main .fourth .name h2 {
+    font-size: 88px;
+  }
+  main .second .right .centeredtext .justtext .text p {
+    margin-bottom: 38px;
+    font-size: 36px;
+  }
+  main .first section .right .imgN1 {
+    width: 435px;
+  }
+  main .first section .right .imgN2 {
+    width: 380px;
+  }
+  main .fourth .review .stars svg {
+    height: 70px;
+    width: 70px;
+  }
+  .fa-heart,
+  .fa-share-square {
+    font-size: 48px;
+  }
+}
+@media screen and (min-width: 1801px) and (max-width: 2200px) {
+  main .first section {
+    width: 67%;
+  }
+  main .first section .left .center .text h4 {
+    font-size: 48px;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+  main .first section .left .center .text p {
+    margin-bottom: 35px;
+    font-size: 34px;
+  }
+  main .first section .left .center .pelement p {
+    font-size: 34px;
+    height: 230px;
+  }
+  main .first section .left .center .imgs img {
+    width: 270px;
+    height: 80px;
+    margin-right: 25px;
+    margin-top: 40px;
+  }
+  main .first header {
+    width: 90%;
+    height: 15%;
+  }
+  main .first header .container-fluid {
+    height: 140px;
+  }
+  main .first header .goingcenter {
+    width: 290px;
+    height: 129.34px;
+  }
+  .navbar-nav .nav-item .nav-link {
+    font-size: 34px;
+  }
+  main .first header .goingcenter .navbar-brand {
+    margin-right: 18px;
+  }
+  main .first header .goingcenter .navbar-brand p {
+    font-size: 46px;
+  }
+  main .first header .goingcenter .navbar-brand .secondp {
+    margin-bottom: 40px;
+    margin-top: 12px;
+    margin-left: 45px;
+  }
+  main .first section {
+    height: 72%;
+  }
+  main .first section .left .center {
+    height: 46%;
+  }
+  main .second .left {
+    align-items: center;
+  }
+  main .second .right .centeredtext .justtext .ulli p {
+    font-size: 43px;
+    line-height: 1.3em;
+  }
+  main .second .right .centeredtext .justtext .text h2 {
+    font-size: 68px;
+  }
+  main .fourth .review .mainimg .divforp p {
+    width: 40%;
+    line-height: 1.5em;
+    font-size: 38px;
+    height: 160px;
+  }
+  main .fourth .review .mainimg h6 {
+    font-size: 32px;
+    height: 120px;
+  }
+  main .fourth .review .mainimg h5 {
+    height: 120px;
+    font-size: 62px;
+  }
+  footer {
+    height: 680px;
+  }
+  main .fourth .name {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  footer .maindiv .top .twoh2 .h2 h2 {
+    font-size: 62px;
+    margin: 0px;
+    margin-top: 13px;
+  }
+  footer .maindiv .bottom p {
+    font-size: 24px;
+    text-align: center;
+  }
+  footer .maindiv .top .aelements {
+    align-items: center;
+  }
+  footer .maindiv {
+    width: 715px;
+  }
+  main .second .left .centeredimg img {
+    width: 460px;
+    height: 870.375px;
+  }
+  footer .maindiv .top .aelements a img {
+    width: 220px;
+    height: 65px;
+  }
+  main .third .name h2 {
+    font-size: 78px;
+  }
+  main .fourth .name h2 {
+    font-size: 78px;
+  }
+  main .second .right .centeredtext .justtext .text p {
+    margin-bottom: 38px;
+    font-size: 34px;
+  }
+  main .first section .right .imgN1 {
+    width: 350px;
+  }
+  main .first section .right .imgN2 {
+    width: 300px;
+  }
+  main .fourth .review .stars svg {
+    height: 57px;
+    width: 57px;
+  }
+  .fa-heart,
+  .fa-share-square {
+    font-size: 42px;
+  }
+}
+@media screen and (min-width: 1501px) and (max-width: 1800px) {
+  main .first section {
+    width: 67%;
+  }
+  main .first section .left .center .text h4 {
+    font-size: 42px;
+    font-weight: 500;
+  }
+  main .first section .left .center .text p {
+    font-size: 28px;
+  }
+  main .first section .left .center .pelement p {
+    font-size: 28px;
+    height: 230px;
+  }
+  main .first section .left .center .imgs img {
+    width: 225px;
+    height: 65px;
+  }
+  main .first header {
+    width: 90%;
+    height: 14%;
+  }
+  main .first header .container-fluid {
+    height: 120px;
+  }
+  main .first header .goingcenter {
+    width: 260px;
+    height: 115.9px;
+  }
+  .navbar-nav .nav-item .nav-link {
+    font-size: 28px;
+  }
+  main .first header .goingcenter .navbar-brand {
+    margin-right: 15px;
+  }
+  main .first header .goingcenter .navbar-brand p {
+    font-size: 44px;
+  }
+  main .first header .goingcenter .navbar-brand .secondp {
+    margin-bottom: 35px;
+    margin-top: 8px;
+    margin-left: 39px;
+  }
+  main .first section {
+    height: 72%;
+  }
+  main .second .right .centeredtext .justtext .ulli p {
+    font-size: 32px;
+    line-height: 1.4em;
+  }
+  main .second .right .centeredtext .justtext .text h2 {
+    font-size: 63px;
+  }
+  main .second .right .centeredtext .justtext .text p {
+    margin-top: 5px;
+    margin-bottom: 35px;
+    font-size: 32px;
+  }
+  main .fourth .review .mainimg .divforp p {
+    width: 40%;
+    line-height: 1.4em;
+    font-size: 32.5px;
+    height: 160px;
+  }
+  main .fourth .review .mainimg h6 {
+    height: 105px;
+    font-size: 24px;
+  }
+  main .fourth .review .mainimg h5 {
+    height: 72px;
+    font-size: 48px;
+  }
+  footer {
+    height: 580px;
+  }
+  main .fourth .name {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  footer .maindiv .top .twoh2 .h2 h2 {
+    font-size: 55px;
+    margin: 0px;
+    margin-top: 10px;
+  }
+  footer .maindiv .bottom p {
+    font-size: 19px;
+  }
+  footer .maindiv .top .aelements {
+    margin-top: 40px;
+  }
+  main .second .left .centeredimg img {
+    width: 345.3px;
+    height: 692px;
+  }
+  footer .maindiv {
+    width: 615px;
+  }
+  footer .maindiv .top .aelements a img {
+    width: 220px;
+    height: 65px;
+  }
+  main .third .name h2 {
+    font-size: 62px;
+  }
+  main .fourth .name h2 {
+    font-size: 62px;
+  }
+  main .third .name {
+    align-items: center;
+  }
+  main .fourth .review .stars svg {
+    width: 48px;
+    height: 48px;
+  }
+  .fa-heart,
+  .fa-share-square {
+    font-size: 36px;
+  }
+}
+@media screen and (min-width: 1025px) and (max-width: 1500px) {
+  main {
+    grid-template-rows: 1.1fr 1fr 1.25fr 1fr;
+  }
+  main .first section {
+    width: 66%;
+  }
+  main .first section .left .center .text h4 {
+    font-size: 35px;
+    font-weight: 500;
+  }
+  main .first section .left .center .text p {
+    font-size: 22px;
+    margin: 0px;
+  }
+  main .first section .left .center .pelement p {
+    font-size: 22px;
+    height: 165px;
+  }
+  main .first section .left .center .imgs img {
+    width: 137.5px;
+    height: 43.5px;
+  }
+  main .first header {
+    width: 95%;
+    height: 15%;
+  }
+  main .first section {
+    height: 71%;
+  }
+  main .second .right .centeredtext .justtext .ulli p {
+    font-size: 24px;
+    line-height: 1.3em;
+  }
+  main .second .right .centeredtext .justtext .text h2 {
+    font-size: 58px;
+  }
+  main .fourth .review .mainimg .divforp p {
+    width: 43%;
+    line-height: 1.6em;
+    font-size: 22px;
+    height: 120px;
+  }
+  main .fourth .review .mainimg h6 {
+    height: 80px;
+  }
+  main .fourth .review .mainimg h5 {
+    margin: 0px;
+    height: 56px;
+  }
+  footer {
+    height: 480px;
+  }
+  footer .maindiv .top {
+    grid-template-rows: 1fr 0.6fr;
+  }
+  main .third {
+    grid-template-rows: 0.15fr 0.875fr;
+  }
+  main .fourth .name {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  footer .maindiv .top .twoh2 {
+    margin-bottom: 22px;
+  }
+  main .fourth .review .stars {
+    height: 45px;
+  }
+  main .fourth .review .stars svg {
+    height: 45px;
+  }
+  footer .maindiv .top .twoh2 {
+    margin-bottom: 32px;
+  }
+  main .fourth .review .stars h6 {
+    height: 72px;
+  }
+  footer .maindiv .top .aelements a img {
+    width: 158px;
+    height: 50px;
+  }
+  main .second .left .centeredimg img {
+    width: 291.375px;
+    height: 583.875px;
+  }
+  main .second .right .centeredtext .justtext .text p {
+    margin-bottom: 20px;
+    margin-top: 5px;
+  }
+  main .first section .right .imgN1 {
+    width: 225px;
+  }
+  main .first section .right .imgN2 {
+    width: 195px;
+  }
+  main .third .name {
+    align-items: center;
+  }
+  .fa-heart,
+  .fa-share-square {
+    font-size: 26px;
+  }
+  .chat {
+    right: 20px;
+    bottom: 28px;
+    width: 58px;
+    height: 58px;
+  }
+  .chat a {
+    font-size: 24px;
+  }
+}
+@media screen and (min-width: 881px) and (max-width: 1024px) {
+  main {
+    grid-template-rows: 1.1fr 1fr 0.8fr 1fr;
+  }
+  main .first section {
+    width: 65%;
+  }
+  main .first section .left .center .text h4 {
+    font-size: 30px;
+    font-weight: 500;
+  }
+  main .first section .left .center .text p {
+    font-size: 17px;
+  }
+  main .first section .left .center .pelement p {
+    font-size: 17px;
+    height: 160px;
+  }
+  main .first section .left .center .imgs img {
+    width: 120px;
+    height: 36px;
+  }
+  main .first header {
+    width: 90%;
+  }
+  main .first section {
+    height: 70%;
+  }
+  main .second .right .centeredtext .justtext .ulli p {
+    font-size: 18px;
+    line-height: 1.4em;
+  }
+  main .second .right .centeredtext .justtext .text h2 {
+    font-size: 44px;
+    margin: 0px;
+  }
+  main .fourth .review .mainimg .divforp p {
+    width: 42%;
+    line-height: 1.3em;
+    font-size: 19px;
+  }
+  main .fourth .review .mainimg h6 {
+    height: 70px;
+  }
+  main .fourth .review .mainimg h5 {
+    font-size: 36px;
+    margin: 0px;
+    height: 40px;
+  }
+  main .third {
+    grid-template-rows: 0.2fr 0.8fr;
+  }
+  main .fourth .name {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  footer {
+    height: 450px;
+  }
+  footer .maindiv .top .twoh2 {
+    margin-bottom: 20px;
+  }
+  footer .maindiv .top .aelements a img {
+    width: 148px;
+    height: 46px;
+  }
+  footer .stars {
+    height: 30px;
+  }
+  main .second .right .centeredtext .justtext .text p {
+    font-size: 24px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+  }
+  main .third .name {
+    align-items: center;
+  }
+  footer .maindiv .top .aelements {
+    align-items: center;
+  }
+  main .first section .right .imgN1 {
+    width: 210px;
+  }
+  main .first section .right .imgN2 {
+    width: 180px;
+  }
+  .fa-heart,
+  .fa-share-square {
+    font-size: 22px;
+  }
+  .chat {
+    right: 20px;
+    bottom: 28px;
+    width: 58px;
+    height: 58px;
+  }
+  .chat a {
+    font-size: 24px;
+  }
+}
+@media screen and (min-width: 701px) and (max-width: 880px) {
+  main .first header {
+    width: 100%;
+  }
+  main .first section .left .center .imgs img {
+    width: 107px;
+    height: 30px;
+  }
+  main .first section {
+    width: 71%;
+  }
+  main .first section .left .center .text h4 {
+    font-size: 26px;
+    font-weight: 500;
+  }
+  main .first section .left .center .text p {
+    font-size: 14.3px;
+    margin: 0px;
+  }
+  main .first section .left .center .pelement p {
+    font-size: 14.3px;
+    height: 140px;
+  }
+  main .second .right .centeredtext .justtext .ulli p {
+    font-size: 17px;
+    line-height: 1.4em;
+  }
+  main .second .right .centeredtext .justtext .text h2 {
+    font-size: 44px;
+    margin: 0px;
+  }
+  main .second .right .centeredtext .justtext .text p {
+    font-size: 22px;
+    margin-top: 3px;
+  }
+  main .fourth .review .mainimg .divforp p {
+    width: 46%;
+    line-height: 1.3em;
+    font-size: 17px;
+  }
+  main .fourth .review .mainimg h6 {
+    height: 50px;
+    font-size: 16px;
+  }
+  main .fourth .review .mainimg h5 {
+    margin: 0px;
+    margin-top: 2px;
+    height: max-content;
+    font-size: 26px;
+  }
+  footer {
+    height: 380px;
+  }
+  main .third {
+    grid-template-rows: 0.25fr 0.75fr;
+  }
+  main .third .name {
+    align-items: center;
+  }
+  main .fourth .name {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  main .fourth .review .stars svg {
+    height: 22px;
+    width: 25px;
+  }
+  footer .maindiv .top .twoh2 .h2 h2 {
+    font-size: 40px;
+  }
+  footer .maindiv .bottom p {
+    font-size: 12px;
+  }
+  footer .maindiv .top .aelements a img {
+    width: 115px;
+    height: 33.5px;
+  }
+  footer .maindiv .top .aelements {
+    align-items: center;
+  }
+  main .second .left .centeredimg img {
+    width: 259px;
+    height: 519px;
+  }
+  main .first section .right .imgN1 {
+    width: 180px;
+  }
+  main .first section .right .imgN2 {
+    width: 155px;
+  }
+  .fa-heart,
+  .fa-share-square {
+    font-size: 12px;
+  }
+  .chat {
+    right: 18px;
+    bottom: 25px;
+    width: 54px;
+    height: 54px;
+  }
+  .chat a {
+    font-size: 22px;
+  }
+}
+@media screen and (max-width: 700px) and (min-width: 426px) {
+  main {
+    height: max-content;
+    grid-template-rows: 1fr 1fr 0.8fr 0.45fr;
+  }
+  main .first header {
+    width: 99%;
+    height: 90px;
+  }
+  main .first header .goingcenter {
+    width: 162.5px;
+    height: 72.5px;
+  }
+  main .first header .goingcenter .navbar-brand .firstp,
+  main .first header .goingcenter .navbar-brand .secondp {
+    font-size: 28px;
+    height: 27px;
+    margin: 0px;
+  }
+  main .first header .goingcenter .navbar-brand .secondp {
+    margin-left: 28px;
+    margin-bottom: 14px;
+  }
+  .navbar-brand {
+    margin: 0px;
+    margin-left: 5px;
+  }
+  main .first header .navbar {
+    height: 85px;
+  }
+  main .first section {
+    width: 75%;
+    grid-template-columns: 1fr;
+  }
+  main .first .right {
+    justify-content: space-around !important;
+    margin-bottom: 100px;
+  }
+  main .first .right .center {
+    width: 100%;
+    margin-top: 250px;
+  }
+  footer .maindiv {
+    width: max-content;
+  }
+  footer .maindiv .top,
+  footer .maindiv .bottom {
+    width: calc(100% - 100px);
+  }
+  main .first section .left {
+    justify-content: center;
+  }
+  main .first section .left .center .text h4,
+  main .first section .left .center .text p,
+  main .first section .left .center .pelement p {
+    text-align: center;
+  }
+  main .first section .left .center .imgs {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+  }
+  main .first section .left .center .text p,
+  main .first section .left .center .pelement p {
+    margin-top: 7px;
+    font-size: 24px;
+  }
+  main .first section .left .center .imgs img {
+    width: 155px;
+    height: 50px;
+    margin: 0px 10px;
+  }
+  main .second {
+    grid-template-columns: 1fr;
+  }
+  main .second .left {
+    align-items: flex-start;
+  }
+  main .second .left img {
+    height: 450px;
+  }
+  main .second .right {
+    align-items: flex-start;
+  }
+  main .second .right .centeredtext {
+    justify-content: center;
+  }
+  main .second .right .centeredtext .justtext {
+    width: 75%;
+  }
+  main .second .right .centeredtext .justtext .ulli p {
+    width: 100%;
+    font-size: 22px;
+    line-height: 1.4em;
+    text-align: center;
+  }
+  main .second .right .centeredtext .justtext .text h2 {
+    width: 100%;
+    font-size: 42px;
+    text-align: center;
+  }
+  main .second .right .centeredtext .justtext .text p {
+    width: 100%;
+    font-size: 22px;
+    margin-top: 3px;
+    text-align: center;
+  }
+  main .second .left .centeredimg {
+    justify-content: center;
+  }
+  main .third {
+    height: auto;
+    grid-template-rows: 0.2fr 1fr;
+  }
+  main .third .name {
+    align-items: center;
+    margin-bottom: 90px;
+  }
+  main .third .sectionplace {
+    width: 100%;
+    height: max-content;
+    display: flex;
+    align-items: center;
+  }
+  main .third .screens .scr {
+    height: 100%;
+  }
+  main .third .screens {
+    grid-template-columns: 1fr 1fr;
+    row-gap: 30px;
+    margin-bottom: 30px;
+  }
+  main .fourth .review .mainimg {
+    background-image: none;
+  }
+  main .fourth .review .mainimg .divforp p {
+    width: 70%;
+    font-size: 20px;
+    text-align: center;
+  }
+  main .fourth .name h2 {
+    margin-top: 20px;
+  }
+  footer {
+    width: 100%;
+    height: 500px;
+  }
+  footer .maindiv,
+  footer .maindiv .top,
+  footer .maindiv .top .twoh2,
+  footer .maindiv .bottom {
+    width: 100%;
+  }
+  footer .maindiv .bottom p {
+    text-align: center;
+    font-size: 14.5px;
+  }
+  footer .maindiv .top .aelements a {
+    margin: 0px 5px;
+  }
+  footer .maindiv .top .aelements {
+    margin-top: 30px;
+  }
+  footer .maindiv .top .aelements a img {
+    width: 145px;
+    height: 42px;
+  }
+  main .fourth .review .mainimg h6 {
+    height: 60px;
+  }
+  .fa-heart,
+  .fa-share-square {
+    font-size: 22px;
+  }
+  .chat {
+    right: 15px;
+    bottom: 22px;
+    width: 48px;
+    height: 48px;
+  }
+  .chat a {
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 425px) and (min-width: 320px) {
+  main {
+    height: 3700px;
+    grid-template-rows: 1.52fr 1fr 0.8fr 0.6fr;
+  }
+  main .first header {
+    width: 100%;
+    height: 90px;
+  }
+  main .first header .container-fluid {
+    padding-left: 0px;
+  }
+  main .first header .goingcenter {
+    width: 130px;
+    height: 58px;
+  }
+  main .first header .goingcenter .navbar-brand .firstp,
+  main .first header .goingcenter .navbar-brand .secondp {
+    font-size: 20px;
+    height: 20px;
+    margin: 0px;
+  }
+  main .first header .goingcenter .navbar-brand .secondp {
+    margin-left: 20px;
+    margin-bottom: 13px;
+  }
+  .navbar-brand {
+    margin: 0px;
+    margin-left: 15px;
+  }
+  main .first header .navbar {
+    height: 80px;
+  }
+  main .first section {
+    width: 100%;
+    grid-template-columns: 1fr;
+  }
+  main .first .right {
+    justify-content: space-around !important;
+    margin-top: 210px;
+  }
+  main .first .right .center {
+    width: 100%;
+  }
+  footer .maindiv {
+    width: max-content;
+  }
+  footer .maindiv .top,
+  footer .maindiv .bottom {
+    width: calc(100% - 100px);
+  }
+  main .first section .left {
+    justify-content: center;
+  }
+  main .first section .left .center .text h4,
+  main .first section .left .center .text p,
+  main .first section .left .center .pelement p {
+    text-align: center;
+  }
+  main .first section .left .center .imgs {
+    display: flex;
+    justify-content: center;
+  }
+  main .first section .left .center .text p,
+  main .first section .left .center .pelement p {
+    margin-top: 7px;
+  }
+  main .first section .left .center .imgs img {
+    width: 150px;
+    height: 48px;
+    margin: 0px 6px;
+    margin-top: 20px;
+  }
+  main .second {
+    grid-template-columns: 1fr;
+  }
+  main .second .left {
+    align-items: flex-start;
+  }
+  main .second .left img {
+    height: 450px;
+  }
+  main .second .right {
+    height: min-content;
+    align-items: flex-start;
+  }
+  main .second .right .centeredtext {
+    justify-content: center;
+  }
+  main .second .right .centeredtext .justtext {
+    width: 75%;
+  }
+  main .second .right .centeredtext .justtext .ulli p {
+    width: 100%;
+    font-size: 19px;
+    line-height: 1.3em;
+    text-align: center;
+  }
+  main .second .right .centeredtext .justtext .text h2 {
+    width: 100%;
+    font-size: 40px;
+    text-align: center;
+  }
+  main .second .right .centeredtext .justtext .text p {
+    width: 100%;
+    font-size: 20px;
+    margin-top: 3px;
+    text-align: center;
+  }
+  main .second .left .centeredimg {
+    justify-content: center;
+  }
+  main .third {
+    height: min-content;
+  }
+  main .third .name {
+    height: 120px;
+    align-items: center;
+    margin-bottom: 70px;
+  }
+  main .third .sectionplace {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+  }
+  main .third .screens .scr {
+    height: auto;
+  }
+  main .third .screens {
+    height: auto;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 30px;
+  }
+  main .fourth {
+    height: auto;
+  }
+  main .fourth .review .mainimg {
+    background-image: none;
+  }
+  main .fourth .review .mainimg .divforp p {
+    width: 70%;
+    font-size: 20px;
+    text-align: center;
+  }
+  main .fourth .name h2 {
+    margin-top: 20px;
+  }
+  footer {
+    width: 100%;
+    height: 550px;
+  }
+  footer .maindiv,
+  footer .maindiv .top,
+  footer .maindiv .top .twoh2,
+  footer .maindiv .bottom {
+    width: 100%;
+  }
+  footer .maindiv .bottom p {
+    text-align: center;
+    font-size: 14.5px;
+  }
+  footer .maindiv .top .aelements a {
+    margin: 0px 5px;
+  }
+  footer .maindiv .top .aelements {
+    margin-top: 30px;
+  }
+  footer .maindiv .top .aelements a img {
+    width: 145px;
+    height: 42px;
+  }
+  main .fourth .review .mainimg h6 {
+    height: 60px;
+  }
+  .fa-heart,
+  .fa-share-square {
+    font-size: 18px;
+  }
+  .chat {
+    right: 12px;
+    bottom: 18px;
+    width: 44px;
+    height: 44px;
+  }
+  .chat a {
+    font-size: 19px;
+  }
+}
